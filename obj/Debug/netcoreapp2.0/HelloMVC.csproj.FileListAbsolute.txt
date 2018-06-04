@@ -1,0 +1,11 @@
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.deps.json
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.runtimeconfig.json
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.runtimeconfig.dev.json
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.dll
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\bin\Debug\netcoreapp2.0\HelloMVC.pdb
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.csprojAssemblyReference.cache
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.csproj.CoreCompileInputs.cache
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.AssemblyInfoInputs.cache
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.AssemblyInfo.cs
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.dll
+E:\WARRIOR\WORK\ASP.NET core\HelloMVC\obj\Debug\netcoreapp2.0\HelloMVC.pdb
