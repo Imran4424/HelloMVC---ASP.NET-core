@@ -6,7 +6,13 @@ namespace HelloMVC.Controllers
 {
     public class ProductController : Controller
     {
-        
-        
+        public IActionResult ShowAll()
+        {
+            
+
+
+            return View(Products);
+        }
+
     }
 }
